@@ -1,1 +1,5 @@
-Modification par Etudiant 1 = je modifizzz
+<<<<<<< HEAD
+
+Modification par Etudiant 1 = pas d'accord, c'est Diane
+
+>>>>>>> 7cfd48e244047deff56e7a6defb39af14f7e0114
